@@ -1,0 +1,21 @@
+{
+  "name": "ni-foto",
+  "version": "1.0.0",
+  "description": "Nifoto website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nifoto",
+    "website",
+    "photography",
+    "photo"
+  ],
+  "author": "Nikola Tasic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
